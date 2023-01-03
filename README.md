@@ -1,4 +1,5 @@
-# Craftable
+![Craftable-Icon](https://i.imgur.com/T7gUDEl.png)
+
 Craftable is a  plugin made to add an easy way to optain rare items that you can collect by visiting and discovering the Minecraft world or there is no recipe to craft these items. This plugin will be updated with any feature you feel is something that should be in the game. If you would like to see something added to the items list then please open a issue here: **[Craftable Issues & Requests](https://github.com/RobiOfficial/Craftable/issues)**.
 
 **USEFUL LINKS:**
