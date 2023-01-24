@@ -7,7 +7,10 @@ Craftable is a  plugin made to add an easy way to obtain rare items that you can
 -  **[Issues & Requests](https://github.com/RobiOfficial/Craftable/issues)** 
 
 # How does it work?
-As of now this plugin just adds some recipes to your server. There are no commands or permissions so all players can start crafting these items whenever the plugin is installed. 
+As of now this plugin just adds some recipes to your server.
+
+**COMMANDS**  
+- **/craftable** - You can see plugin version information. (since v1.3.1)
 
 Example:
 ![DiamondHorseArmor](https://i.imgur.com/zGmcUWE.png)
