@@ -19,17 +19,21 @@ Craftable recipes:
 - Experience Bottle
 - Chainmail armor
 - Horse armor (iron, gold, diamond)  
-Example:
+
+
+Example:  
+
 ![DiamondHorseArmor](https://i.imgur.com/zGmcUWE.png)
 
-GUI
+GUI  
+
 ![CraftableGUI](https://github.com/RobiOfficial/Craftable/blob/main/GUI/CraftableGUI.PNG?raw=true)
 
 **COMMANDS**  
 - **/craftable** - You can see plugin version information. (since v1.3.1)
 - **/craft** - Workbench information GUI.   
 
-!! There are no permissions.
+> There are no permissions.
 
 # Installation
 - Stop your server.
