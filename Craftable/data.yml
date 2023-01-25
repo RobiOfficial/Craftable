@@ -25,3 +25,6 @@ expBottle: !!org.bukkit.inventory.ShapedRecipe
 EnchGoldenApple: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
+IceBlock: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
