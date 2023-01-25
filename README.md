@@ -9,12 +9,27 @@ Craftable is a  plugin made to add an easy way to obtain rare items that you can
 # How does it work?
 After installing the plugin and restarting the server there is nothing else you need to do. Since 2.0.0 version the plugin also adds GUI feature to the server which helps players with workbench information. 
 
-**COMMANDS**  
-- **/craftable** - You can see plugin version information. (since v1.3.1)
-- **/craft** - Workbench information GUI. 
-
+# Features
+Craftable recipes:  
+- Ice block
+- Leather
+- Totem Of Undying
+- Name Tag
+- Enchanted Golden Apple
+- Experience Bottle
+- Chainmail armor
+- Horse armor (iron, gold, diamond)  
 Example:
 ![DiamondHorseArmor](https://i.imgur.com/zGmcUWE.png)
+
+GUI
+![CraftableGUI](https://github.com/RobiOfficial/Craftable/blob/main/GUI/CraftableGUI.PNG?raw=true)
+
+**COMMANDS**  
+- **/craftable** - You can see plugin version information. (since v1.3.1)
+- **/craft** - Workbench information GUI.   
+
+!! There are no permissions.
 
 # Installation
 - Stop your server.
