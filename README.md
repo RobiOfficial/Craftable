@@ -33,7 +33,7 @@ GUI
 - **/craftable** - You can see plugin version information. (since v1.3.1)
 - **/craft** - Workbench information GUI.   
 
-> There are no permissions.
+> **craftable.craft** permission is needed to use /craft command.
 
 # Installation
 - Stop your server.
