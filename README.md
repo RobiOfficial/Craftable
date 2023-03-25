@@ -19,6 +19,7 @@ Craftable recipes:
 - Experience Bottle
 - Chainmail armor
 - Horse armor (iron, gold, diamond)  
+- Trident
 
 
 Example:  
