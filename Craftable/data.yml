@@ -19,15 +19,6 @@ ChainmailLeggings: !!org.bukkit.inventory.ShapedRecipe
 ChainmailBoots: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
-expBottle: !!org.bukkit.inventory.ShapedRecipe
-  category: {}
-  group: ''
-EnchGoldenApple: !!org.bukkit.inventory.ShapedRecipe
-  category: {}
-  group: ''
-IceBlock:
-  category: {}
-  group: ''
 Leather: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
@@ -35,5 +26,17 @@ Totem: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
 NameTag: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+Trident: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+expBottle: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+EnchGoldenApple: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+IceBlock: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
