@@ -40,3 +40,6 @@ EnchGoldenApple: !!org.bukkit.inventory.ShapedRecipe
 IceBlock: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
+Obs: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
