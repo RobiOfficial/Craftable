@@ -20,6 +20,8 @@ Craftable recipes:
 - Chainmail armor
 - Horse armor (iron, gold, diamond)  
 - Trident
+- Saddle
+- Obsidian
 
 
 Example:  
@@ -28,7 +30,7 @@ Example:
 
 GUI  
 
-![CraftableGUI](https://github.com/RobiOfficial/Craftable/blob/main/GUI/CraftableGUI.PNG?raw=true)
+![CraftableGUI](https://github.com/RobiOfficial/Craftable/blob/main/GUI/CraftableGUI2.png?raw=true)
 
 **COMMANDS**  
 - **/craftable** - You can see plugin version information. (since v1.3.1)
