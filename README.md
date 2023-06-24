@@ -34,9 +34,9 @@ GUI
 
 **COMMANDS**  
 - **/craftable** - You can see plugin version information. (since v1.3.1)
-- **/craft** - Workbench information GUI.   
+- **/craft** *(alias: /c)* - Workbench information GUI.   
 
-> **craftable.craft** permission is needed to use /craft command.
+> **craftable.craft** permission is needed to use /craft or /c command.
 
 # Installation
 - Stop your server.
