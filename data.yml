@@ -1,0 +1,48 @@
+DiamondHorseArmor: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+GoldHorseArmor: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+IronHorseArmor: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+ChainmailHelmet: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+ChainmailChestplate: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+ChainmailLeggings: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+ChainmailBoots: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+Leather: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+Totem: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+NameTag: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+Trident: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+Saddle: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+expBottle: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+EnchGoldenApple: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+IceBlock: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+Obs: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
