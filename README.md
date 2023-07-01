@@ -2,9 +2,7 @@
 
 Craftable is a  plugin made to add an easy way to obtain rare items that you can collect by visiting and discovering the Minecraft world or there is no recipe to craft these items. This plugin will be updated with any feature you feel is something that should be in the game. If you would like to see something added to the items list then please open a issue here: **[Craftable Issues & Requests](https://github.com/RobiOfficial/Craftable/issues)**.
 
-**USEFUL LINKS:**
--  **[Craftable Wiki](https://github.com/RobiOfficial/Craftable/wiki)** 
--  **[Issues & Requests](https://github.com/RobiOfficial/Craftable/issues)** 
+![GitHub issues](https://img.shields.io/github/issues/RobiOfficial/Craftable) / ![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/RobiOfficial/Craftable) / ![GitHub repo size](https://img.shields.io/github/repo-size/RobiOfficial/Craftable) / ![Spiget Downloads](https://img.shields.io/spiget/downloads/107173)
 
 # How does it work?
 After installing the plugin and restarting the server there is nothing else you need to do. Since 2.0.0 version the plugin also adds GUI feature to the server which helps players with workbench information. 
