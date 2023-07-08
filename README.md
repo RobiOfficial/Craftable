@@ -1,11 +1,13 @@
 ![Craftable-Icon](https://i.imgur.com/T7gUDEl.png)
 
-Craftable is a  plugin made to add an easy way to obtain rare items that you can collect by visiting and discovering the Minecraft world or there is no recipe to craft these items. This plugin will be updated with any feature you feel is something that should be in the game. If you would like to see something added to the items list then please open a issue here: **[Craftable Issues & Requests](https://github.com/RobiOfficial/Craftable/issues)**.
+Craftable is a plugin that adds recipes to the server for blocks and items that do not officially have a recipe or are only available in different locations and challenges of the game. It is a easy way to obtain rare items. Since v3.0.0 we have also aimed to bring recycling recipes into the game.
+
+Note: The plugin is developed as a hobby and all players and users of the plugin can participate in the development work by giving feedback or offering new solutions for further development work. We welcome all ideas and feedback- **[Craftable Issues & Requests](https://github.com/RobiOfficial/Craftable/issues)**.
 
 ![GitHub issues](https://img.shields.io/github/issues/RobiOfficial/Craftable) / ![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/RobiOfficial/Craftable) / ![GitHub repo size](https://img.shields.io/github/repo-size/RobiOfficial/Craftable) / ![Spiget Downloads](https://img.shields.io/spiget/downloads/107173)
 
 # How does it work?
-After installing the plugin and restarting the server there is nothing else you need to do. Since 2.0.0 version the plugin also adds GUI feature to the server which helps players with workbench information. 
+After adding the plugin to the server, all players have immediate access to recipes, but players can't see recipe creation information without permission. If you want players or groups to see categories and recipe information, you must also add permissions. Category permissions are in use from **the v3.0.0 version**.
 
 # Features
 Craftable recipes:  
@@ -20,6 +22,8 @@ Craftable recipes:
 - Trident
 - Saddle
 - Obsidian
+- Potato
+- Sponge
 
 
 Example:  
@@ -28,13 +32,17 @@ Example:
 
 GUI  
 
-![CraftableGUI](https://github.com/RobiOfficial/Craftable/blob/main/GUI/CraftableGUI2.png?raw=true)
+![CraftableGUI](https://github.com/RobiOfficial/Craftable/blob/main/GUI/CraftableGUIv3.PNG?raw=true)
 
-**COMMANDS**  
-- **/craftable** - You can see plugin version information. (since v1.3.1)
-- **/craft** *(alias: /c)* - Workbench information GUI.   
-
-> **craftable.craft** permission is needed to use /craft or /c command.
+## **COMMANDS**  
+| Command | Permission | Info | Alias |
+|---------|------------|------|-------|
+| **/craftable** | - | Craftable help menu. | /help craftable |
+| **/craft** | craftable.craft | List of GUI's. | /c |
+| **/food** | craftable.food | Access to food recipes. | |
+| **/blocks** | craftable.blocks | Access to blocks recipes. | |
+| **/misc** | craftable.misc | Access to misc items recipes. | |
+| **/armor** | craftable.armor | Access to horse armor and chainmail armor recipes. | |
 
 # Installation
 - Stop your server.
