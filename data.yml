@@ -46,3 +46,10 @@ IceBlock: !!org.bukkit.inventory.ShapedRecipe
 Obs: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
+poispotato: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+Sponge: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+
