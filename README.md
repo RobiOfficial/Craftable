@@ -1,6 +1,6 @@
 ![Craftable-Icon](https://i.imgur.com/T7gUDEl.png)
 
-Craftable is a plugin that adds recipes to the server for blocks and items that do not officially have a recipe or are only available in different locations and challenges of the game. It is a easy way to obtain rare items. Since v3.0.0 we have also aimed to bring recycling recipes into the game.
+Craftable is a plugin that adds recipes to the server for blocks and items that do not officially have a recipe or are only available in different locations and challenges of the game. It is an easy way to obtain rare items. Since v3.0.0 we have also aimed to bring recycling recipes into the game.
 
 Note: The plugin is developed as a hobby and all players and users of the plugin can participate in the development work by giving feedback or offering new solutions for further development work. We welcome all ideas and feedback- **[Craftable Issues & Requests](https://github.com/RobiOfficial/Craftable/issues)**.
 
@@ -24,6 +24,8 @@ Craftable recipes:
 - Obsidian
 - Potato
 - Sponge
+- Music Disc
+- Elytra
 
 
 Example:  
