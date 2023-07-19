@@ -52,4 +52,9 @@ poispotato: !!org.bukkit.inventory.ShapedRecipe
 Sponge: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
-
+ELYTRA: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+DISC: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
