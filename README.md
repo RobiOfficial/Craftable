@@ -36,7 +36,7 @@ Example:
 
 GUI  
 
-![CraftableGUI](https://github.com/RobiOfficial/Craftable/blob/main/GUI/CraftableGUIv3.PNG?raw=true)
+![CraftableGUI](https://github.com/RobiOfficial/Craftable/blob/main/Img/3.6GUI.png)
 
 ## **COMMANDS**  
 | Command | Permission | Info | Alias |
