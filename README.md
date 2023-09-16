@@ -26,6 +26,8 @@ Craftable recipes:
 - Sponge
 - Music Disc
 - Elytra
+- Bee Egg
+- Turtle Egg
 
 
 Example:  
@@ -45,6 +47,7 @@ GUI
 | **/blocks** | craftable.blocks | Access to blocks recipes. | |
 | **/misc** | craftable.misc | Access to misc items recipes. | |
 | **/armor** | craftable.armor | Access to horse armor and chainmail armor recipes. | |
+| **/mobs** | craftable.mobs | Access to mobs recipes. | |
 
 # Installation
 - Stop your server.
