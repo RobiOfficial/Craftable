@@ -7,6 +7,9 @@ GoldHorseArmor: !!org.bukkit.inventory.ShapedRecipe
 IronHorseArmor: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
+Flint: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
 ChainmailHelmet: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
@@ -37,12 +40,33 @@ Saddle: !!org.bukkit.inventory.ShapedRecipe
 expBottle: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
-EnchGoldenApple: !!org.bukkit.inventory.ShapedRecipe
+EnchantedGoldenApple: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
 IceBlock: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
-Obs: !!org.bukkit.inventory.ShapedRecipe
+Obsidian: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+Gravel: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+PoisonPotato: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+Sponge: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+ELYTRA: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+DISC: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+BeeEgg: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+TurtleEgg: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
