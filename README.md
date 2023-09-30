@@ -28,6 +28,8 @@ Craftable recipes:
 - Elytra
 - Bee Egg
 - Turtle Egg
+- Gravel
+- Flint
 
 
 Example:  
