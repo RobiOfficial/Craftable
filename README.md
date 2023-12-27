@@ -2,7 +2,7 @@
 
 Craftable is a plugin that adds recipes to the server for blocks and items that do not officially have a recipe or are only available in different locations and challenges of the game. It is an easy way to obtain rare items. Since v3.0.0 we have also aimed to bring recycling recipes into the game.
 
-Note: The plugin is developed as a hobby and all players and users of the plugin can participate in the development work by giving feedback or offering new solutions for further development work. We welcome all ideas and feedback- **[Craftable Issues & Requests](https://github.com/RobiOfficial/Craftable/issues)**.
+**Note:** The plugin is developed as a hobby and all players and users of the plugin can participate in the development work by giving feedback or offering new solutions for further development work. We welcome all ideas and feedback- **[Craftable Issues & Requests](https://github.com/RobiOfficial/Craftable/issues)**.
 
 ![GitHub issues](https://img.shields.io/github/issues/RobiOfficial/Craftable) / ![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/RobiOfficial/Craftable) / ![GitHub repo size](https://img.shields.io/github/repo-size/RobiOfficial/Craftable) / ![Spiget Downloads](https://img.shields.io/spiget/downloads/107173)
 
@@ -30,6 +30,9 @@ Craftable recipes:
 - Turtle Egg
 - Gravel
 - Flint
+- Zombie Egg
+- Wolf Egg
+- Cow Egg
 
 
 Example:  
@@ -50,6 +53,7 @@ GUI
 | **/misc** | craftable.misc | Access to misc items recipes. | |
 | **/armor** | craftable.armor | Access to horse armor and chainmail armor recipes. | |
 | **/mobs** | craftable.mobs | Access to mobs recipes. | |
+| **/animals** | craftable.animals | Access to animals recipes. | |
 
 # Installation
 - Stop your server.
