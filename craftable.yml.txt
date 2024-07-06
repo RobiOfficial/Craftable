@@ -1,0 +1,1521 @@
+help craftables:
+  command: /help craftables
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cCraftables Help &4Menu'
+  iconmenu_size: 36
+  iconmenu_commands:
+  - 0:CHAINMAIL_HELMET:0:%openiconmenu%/craft chain helm:&2Crafting:&aRecipe
+  - 1:CHAINMAIL_CHESTPLATE:0:%openiconmenu%/craft chain body:&2Crafting:&aRecipe
+  - 2:CHAINMAIL_LEGGINGS:0:%openiconmenu%/craft chain legs:&2Crafting:&aRecipe
+  - 3:CHAINMAIL_BOOTS:0:%openiconmenu%/craft chain boots:&2Crafting:&aRecipe
+  - 4:IRON_HORSE_ARMOR:0:%openiconmenu%/craft iron horse armor:&2Crafting:&aRecipe
+  - 5:GOLDEN_HORSE_ARMOR:0:%openiconmenu%/craft gold horse armor:&2Crafting:&aRecipe
+  - 6:DIAMOND_HORSE_ARMOR:0:%openiconmenu%/craft diamond horse armor:&2Crafting:&aRecipe
+  - 7:ENCHANTED_GOLDEN_APPLE:0:%openiconmenu%/craft enchanted apple:&2Crafting:&aRecipe
+  - 8:APPLE:0:%openiconmenu%/craft apple:&2Crafting:&aRecipe
+  - 9:POTATO:0:%openiconmenu%/craft potato:&2Crafting:&aRecipe
+  - 10:ICE:0:%openiconmenu%/craft ice:&2Crafting:&aRecipe
+  - 11:OBSIDIAN:0:%openiconmenu%/craft obsidian:&2Crafting:&aRecipe
+  - 12:SPONGE:0:%openiconmenu%/craft sponge:&2Crafting:&aRecipe
+  - 13:GRAVEL:0:%openiconmenu%/craft gravel:&2Crafting:&aRecipe
+  - 14:COBWEB:0:%openiconmenu%/craft web:&2Crafting:&
+  - 15:LEATHER:0:%openiconmenu%/craft leather:&2Crafting:&aRecipe
+  - 16:NAME_TAG:0:%openiconmenu%/craft name_tag:&2Crafting:&aRecipe
+  - 17:TOTEM_OF_UNDYING:0:%openiconmenu%/craft totem:&2Crafting:&aRecipe
+  - 18:TRIDENT:0:%openiconmenu%/craft trident:&2Crafting:&aRecipe
+  - 19:SADDLE:0:%openiconmenu%/craft saddle:&2Crafting:&aRecipe
+  - 20:EXPERIENCE_BOTTLE:0:%openiconmenu%/craft exp bottle:&2Crafting:&aRecipe
+  - 21:ELYTRA:0:%openiconmenu%/craft elytra:&2Crafting:&aRecipe
+  - 22:MUSIC_DISC_5:0:%openiconmenu%/craft disc:&2Crafting:&aRecipe
+  - 23:FLINT:0:%openiconmenu%/craft flint:&2Crafting:&aRecipe
+  - 24:BEE_SPAWN_EGG:0:%openiconmenu%/craft bee egg:&2Crafting:&aRecipe
+  - 25:TURTLE_EGG:0:%openiconmenu%/craft turtle egg:&2Crafting:&aRecipe
+  - 26:WOLF_SPAWN_EGG:0:%openiconmenu%/craft wolf egg:&2Crafting:&aRecipe
+  - 27:COW_SPAWN_EGG:0:%openiconmenu%/craft cow egg:&2Crafting:&aRecipe
+  - 28:SHEEP_SPAWN_EGG:0:%openiconmenu%/craft sheep egg:&2Crafting:&aRecipe
+  - 29:PIG_SPAWN_EGG:0:%openiconmenu%/craft pig egg:&2Crafting:&aRecipe
+  - 30:HORSE_SPAWN_EGG:0:%openiconmenu%/craft horse egg:&2Crafting:&aRecipe
+  - 31:ZOMBIE_SPAWN_EGG:0:%openiconmenu%/craft zombie egg:&2Crafting:&aRecipe
+  - 32:CREEPER_SPAWN_EGG:0:%openiconmenu%/craft creeper egg:&2Crafting:&aRecipe
+  - 33:SKELETON_SPAWN_EGG:0:%openiconmenu%/craft skeleton egg:&2Crafting:&aRecipe
+  - 34:SPIDER_SPAWN_EGG:0:%openiconmenu%/craft spider egg:&2Crafting:&aRecipe
+  - 35:BARRIER:0:%openiconmenu%/help:Exit:Back to help.
+  permission-required: false
+
+craft chain helm:
+  command: /craft chain helm
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cChainmail Helmet'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:IRON_INGOT:0::&2Iron Ingot:&aHere
+  - 2:CHAIN:0::&2Chain:&aHere
+  - 3:IRON_INGOT:0::&2Iron Ingot:&aHere
+  
+  - 10:IRON_INGOT:0::&2Iron Ingot:&aHere
+#  - 11:IRON_INGOT:0::&2Iron Ingot:&aHere
+  - 12:IRON_INGOT:0::&2Iron Ingot:&aHere
+  
+#  - 19:IRON_INGOT:0::&2Iron Ingot:&aHere
+#  - 20:IRON_INGOT:0::&2Iron Ingot:&aHere
+#  - 21:IRON_INGOT:0::&2Iron Ingot:&aHere
+
+  - 15:CHAINMAIL_HELMET:0::&2Makes:&aChainmail Helmet
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft chain body:
+  command: /craft chain body
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cChainmail Body'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:IRON_INGOT:0::&2Iron Ingot:&aHere
+#  - 2:CHAIN:0::&2Chain:&aHere
+  - 3:IRON_INGOT:0::&2Iron Ingot:&aHere
+  
+  - 10:CHAIN:0::&2Chain:&aHere
+  - 11:IRON_INGOT:0::&2Iron Ingot:&aHere
+  - 12:CHAIN:0::&2Chain:&aHere
+  
+  - 19:CHAIN:0::&2Chain:&aHere
+  - 20:IRON_INGOT:0::&2Iron Ingot:&aHere
+  - 21:CHAIN:0::&2Chain:&aHere
+  
+  - 15:CHAINMAIL_CHESTPLATE:0::&2Makes:&aChainmail Body
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+  
+craft chain legs:
+  command: /craft chain legs
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cChainmail Legs'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:IRON_INGOT:0::&2Iron Ingot:&aHere
+  - 2:CHAIN:0::&2Chain:&aHere
+  - 3:IRON_INGOT:0::&2Iron Ingot:&aHere
+  
+  - 10:CHAIN:0::&2Chain:&aHere
+#  - 11:IRON_INGOT:0::&2Iron Ingot:&aHere
+  - 12:CHAIN:0::&2Chain:&aHere
+  
+  - 19:IRON_INGOT:0::&2Iron Ingot:&aHere
+#  - 20:IRON_INGOT:0::&2Iron Ingot:&aHere
+  - 21:IRON_INGOT:0::&2Iron Ingot:&aHere
+  
+  - 15:CHAINMAIL_LEGGINGS:0::&2Makes:&aChainmail Legs
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+  
+craft chain boots:
+  command: /craft chain boots
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cChainmail Boots'
+  iconmenu_size: 27
+  iconmenu_commands:
+#  - 1:IRON_INGOT:0::&2Iron Ingot:&aHere
+#  - 2:CHAIN:0::&2Chain:&aHere
+#  - 3:IRON_INGOT:0::&2Iron Ingot:&aHere
+  
+  - 10:IRON_INGOT:0::&2Iron Ingot:&aHere
+#  - 11:IRON_INGOT:0::&2Iron Ingot:&aHere
+  - 12:IRON_INGOT:0::&2Iron Ingot:&aHere
+  
+  - 19:CHAIN:0::&2Chain:&aHere
+#  - 20:IRON_INGOT:0::&2Iron Ingot:&aHere
+  - 21:CHAIN:0::&2Chain:&aHere
+  
+  - 15:CHAINMAIL_BOOTS:0::&2Makes:&aChainmail Boots
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+  
+craft iron horse armor:
+  command: /craft iron horse armor
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cIron Horse Armour'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:BLACK_DYE:0::&2Black Dye:&aHere
+  - 2:BLACK_DYE:0::&2Black Dye:&aHere
+  - 3:IRON_INGOT:0::&2Iron Ingot:&aHere
+  
+  - 10:IRON_INGOT:0::&2Iron Ingot:&aHere
+  - 11:SADDLE:0::&2Saddle:&aHere
+  - 12:IRON_INGOT:0::&2Iron Ingot:&aHere
+  
+  - 19:IRON_INGOT:0::&2Iron Ingot:&aHere
+  - 20:IRON_INGOT:0::&2Iron Ingot:&aHere
+  - 21:IRON_INGOT:0::&2Iron Ingot:&aHere
+  
+  - 15:IRON_HORSE_ARMOR:0::&2Makes:&aIron Horse Armour
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+  
+craft gold horse armor:
+  command: /craft gold horse armor
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cGolden Horse Armour'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:RED_DYE:0:::&r
+  - 2:RED_DYE:0:::&r
+  - 3:GOLD_INGOT:0:::&r
+  
+  - 10:GOLD_INGOT:0:::&r
+  - 11:SADDLE:0:::&r
+  - 12:GOLD_INGOT:0:::&r
+  
+  - 19:GOLD_INGOT:0:::&r
+  - 20:GOLD_INGOT:0:::&r
+  - 21:GOLD_INGOT:0:::&r
+  
+  - 15:GOLDEN_HORSE_ARMOR:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft diamond horse armor:
+  command: /craft diamond horse armor
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cDiamond Horse Armour'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:YELLOW_DYE:0:::&r
+  - 2:YELLOW_DYE:0:::&r
+  - 3:DIAMOND:0:::&r
+  
+  - 10:DIAMOND:0:::&r
+  - 11:SADDLE:0:::&r
+  - 12:DIAMOND:0:::&r
+  
+  - 19:DIAMOND:0:::&r
+  - 20:DIAMOND:0:::&r
+  - 21:DIAMOND:0:::&r
+  
+  - 15:DIAMOND_HORSE_ARMOR:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft enchanted apple:
+  command: /craft enchanted apple
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cEnchanted Golden Apple'
+  iconmenu_size: 27
+  iconmenu_commands:
+#  - 1:YELLOW_DYE:0:::&r
+  - 2:EXPERIENCE_BOTTLE:0:::&r
+#  - 3:DIAMOND:0:::&r
+  
+  - 10:EXPERIENCE_BOTTLE:0:::&r
+  - 11:GOLDEN_APPLE:0:::&r
+  - 12:EXPERIENCE_BOTTLE:0:::&r
+  
+#  - 19:DIAMOND:0:::&r
+  - 20:EXPERIENCE_BOTTLE:0:::&r
+#  - 21:DIAMOND:0:::&r
+  
+  - 15:ENCHANTED_GOLDEN_APPLE:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft apple:
+  command: /craft apple
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cApple'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:OAK_LEAVES:0:::&r
+  - 2:OAK_LEAVES:0:::&r
+  - 3:OAK_LEAVES:0:::&r
+  
+  - 10:OAK_LEAVES:0:::&r
+  - 11:OAK_LEAVES:0:::&r
+  - 12:OAK_LEAVES:0:::&r
+  
+  - 19:OAK_LEAVES:0:::&r
+  - 20:OAK_LEAVES:0:::&r
+  - 21:OAK_LEAVES:0:::&r
+  
+  - 15:APPLE:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft potato:
+  command: /craft potato
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cPotato'
+  iconmenu_size: 27
+  iconmenu_commands:
+#  - 1:OAK_LEAVES:0:::&r
+#  - 2:OAK_LEAVES:0:::&r
+#  - 3:OAK_LEAVES:0:::&r
+  
+  - 10:POISONOUS_POTATO:0:::&r
+  - 11:POISONOUS_POTATO:0:::&r
+  - 12:POISONOUS_POTATO:0:::&r
+  
+#  - 19:OAK_LEAVES:0:::&r
+#  - 20:OAK_LEAVES:0:::&r
+#  - 21:OAK_LEAVES:0:::&r
+  
+  - 15:POTATO:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+
+
+
+
+craft ice:
+  command: /craft ice
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cIce Block'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:SNOWBALL:0:::&r
+  - 2:SNOWBALL:0:::&r
+  - 3:SNOWBALL:0:::&r
+  
+  - 10:SNOWBALL:0:::&r
+  - 11:WATER_BUCKET:0:::&r
+  - 12:SNOWBALL:0:::&r
+  
+  - 19:SNOWBALL:0:::&r
+  - 20:SNOWBALL:0:::&r
+  - 21:SNOWBALL:0:::&r
+  
+  - 15:ICE:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft obsidian:
+  command: /craft obsidian
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cObsidian Block'
+  iconmenu_size: 27
+  iconmenu_commands:
+#  - 1:SNOWBALL:0:::&r
+#  - 2:SNOWBALL:0:::&r
+#  - 3:SNOWBALL:0:::&r
+  
+  - 10:WATER_BUCKET:0:::&r
+  - 11:LAVA_BUCKET:0:::&r
+  - 12:WATER_BUCKET:0:::&r
+  
+#  - 19:SNOWBALL:0:::&r
+#  - 20:SNOWBALL:0:::&r
+#  - 21:SNOWBALL:0:::&r
+  
+  - 15:OBSIDIAN:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft sponge:
+  command: /craft sponge
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cSponge'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:YELLOW_WOOL:0:::&r
+  - 2:WATER_BUCKET:0:::&r
+  - 3:YELLOW_WOOL:0:::&r
+  
+  - 10:WATER_BUCKET:0:::&r
+  - 11:PUFFERFISH:0:::&r
+  - 12:WATER_BUCKET:0:::&r
+  
+  - 19:YELLOW_WOOL:0:::&r
+  - 20:WATER_BUCKET:0:::&r
+  - 21:YELLOW_WOOL:0:::&r
+  
+  - 15:SPONGE:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft gravel:
+  command: /craft gravel
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cGravel'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:SAND:0:::&r
+  - 2:COBBLESTONE:0:::&r
+  - 3:SAND:0:::&r
+  
+  - 10:COBBLESTONE:0:::&r
+  - 11:SAND:0:::&r
+  - 12:COBBLESTONE:0:::&r
+  
+  - 19:SAND:0:::&r
+  - 20:COBBLESTONE:0:::&r
+  - 21:SAND:0:::&r
+  
+  - 15:GRAVEL:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft web:
+  command: /craft web
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cCobweb'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:STRING:0:::&r
+  - 2:STRING:0:::&r
+  - 3:STRING:0:::&r
+  
+  - 10:STRING:0:::&r
+  - 11:SLIME_BALL:0:::&r
+  - 12:STRING:0:::&r
+  
+  - 19:STRING:0:::&r
+  - 20:STRING:0:::&r
+  - 21:STRING:0:::&r
+  
+  - 15:COBWEB:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft leather:
+  command: /craft leather
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cLeather'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:ROTTEN_FLESH:0:::&r
+  - 2:ROTTEN_FLESH:0:::&r
+  - 3:ROTTEN_FLESH:0:::&r
+  
+  - 10:ROTTEN_FLESH:0:::&r
+  - 11:ROTTEN_FLESH:0:::&r
+  - 12:ROTTEN_FLESH:0:::&r
+  
+  - 19:ROTTEN_FLESH:0:::&r
+  - 20:ROTTEN_FLESH:0:::&r
+  - 21:ROTTEN_FLESH:0:::&r
+  
+  - 15:LEATHER:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft name_tag:
+  command: /craft name_tag
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cName Tag'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:STRING:0:::&r
+#  - 2:ROTTEN_FLESH:0:::&r
+#  - 3:ROTTEN_FLESH:0:::&r
+  
+  - 10:PAPER:0:::&r
+#  - 11:ROTTEN_FLESH:0:::&r
+#  - 12:ROTTEN_FLESH:0:::&r
+  
+  - 19:INK_SAC:0:::&r
+#  - 20:ROTTEN_FLESH:0:::&r
+#  - 21:ROTTEN_FLESH:0:::&r
+  
+  - 15:NAME_TAG:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft totem:
+  command: /craft totem
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cTotem of Undying'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:BLAZE_POWDER:0:::&r
+  - 2:GOLD_BLOCK:0:::&r
+  - 3:BLAZE_POWDER:0:::&r
+  
+  - 10:GOLD_BLOCK:0:::&r
+  - 11:EMERALD_BLOCK:0:::&r
+  - 12:GOLD_BLOCK:0:::&r
+  
+  - 19:BLAZE_POWDER:0:::&r
+  - 20:GOLD_BLOCK:0:::&r
+  - 21:BLAZE_POWDER:0:::&r
+  
+  - 15:TOTEM_OF_UNDYING:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft trident:
+  command: /craft trident
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cTrident'
+  iconmenu_size: 27
+  iconmenu_commands:
+#  - 1:DIAMOND_SWORD:0:::&r
+  - 2:DIAMOND_SWORD:0:::&r
+  - 3:DIAMOND_SWORD:0:::&r
+  
+#  - 10:GOLD_BLOCK:0:::&r
+  - 11:STICK:0:::&r
+  - 12:DIAMOND_SWORD:0:::&r
+  
+  - 19:STICK:0:::&r
+#  - 20:GOLD_BLOCK:0:::&r
+#  - 21:BLAZE_POWDER:0:::&r
+  
+  - 15:TRIDENT:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft saddle:
+  command: /craft saddle
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cSaddle'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:LEATHER:0:::&r
+  - 2:LEATHER:0:::&r
+  - 3:LEATHER:0:::&r
+  
+  - 10:LEATHER:0:::&r
+  - 11:IRON_INGOT:0:::&r
+  - 12:LEATHER:0:::&r
+  
+  - 19:IRON_INGOT:0:::&r
+#  - 20:GOLD_BLOCK:0:::&r
+  - 21:IRON_INGOT:0:::&r
+  
+  - 15:SADDLE:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft exp bottle:
+  command: /craft exp bottle
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cExperience Bottle'
+  iconmenu_size: 27
+  iconmenu_commands:
+#  - 1:LEATHER:0:::&r
+  - 2:GLOWSTONE_DUST:0:::&r
+#  - 3:LEATHER:0:::&r
+  
+  - 10:GOLD_INGOT:0:::&r
+  - 11:BEETROOT:0:::&r
+  - 12:GOLD_INGOT:0:::&r
+  
+#  - 19:IRON_INGOT:0:::&r
+  - 20:GOLD_INGOT:0:::&r
+#  - 21:IRON_INGOT:0:::&r
+  
+  - 15:EXPERIENCE_BOTTLE:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft elytra:
+  command: /craft elytra
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cElytra'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:PHANTOM_MEMBRANE:0:::&r
+  - 2:DIAMOND:0:::&r
+  - 3:PHANTOM_MEMBRANE:0:::&r
+  
+  - 10:PHANTOM_MEMBRANE:0:::&r
+#  - 11:BEETROOT:0:::&r
+  - 12:PHANTOM_MEMBRANE:0:::&r
+  
+  - 19:FEATHER:0:::&r
+#  - 20:GOLD_INGOT:0:::&r
+  - 21:FEATHER:0:::&r
+  
+  - 15:ELYTRA:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft disc:
+  command: /craft disc
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cDisc 5'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:DISC_FRAGMENT_5:0:::&r
+  - 2:DISC_FRAGMENT_5:0:::&r
+  - 3:DISC_FRAGMENT_5:0:::&r
+  
+  - 10:DISC_FRAGMENT_5:0:::&r
+  - 11:DISC_FRAGMENT_5:0:::&r
+  - 12:DISC_FRAGMENT_5:0:::&r
+  
+  - 19:DISC_FRAGMENT_5:0:::&r
+  - 20:DISC_FRAGMENT_5:0:::&r
+  - 21:DISC_FRAGMENT_5:0:::&r
+  
+  - 15:MUSIC_DISC_5:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft flint:
+  command: /craft flint
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cFlint'
+  iconmenu_size: 27
+  iconmenu_commands:
+#  - 1:DISC_FRAGMENT_5:0:::&r
+#  - 2:DISC_FRAGMENT_5:0:::&r
+#  - 3:DISC_FRAGMENT_5:0:::&r
+  
+  - 10:GRAVEL:0:::&r
+  - 11:IRON_INGOT:0:::&r
+  - 12:GRAVEL:0:::&r
+  
+#  - 19:DISC_FRAGMENT_5:0:::&r
+#  - 20:DISC_FRAGMENT_5:0:::&r
+#  - 21:DISC_FRAGMENT_5:0:::&r
+  
+  - 15:FLINT:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft bee egg:
+  command: /craft bee egg
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cBee Egg'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:HONEYCOMB:0:::&r
+  - 2:HONEYCOMB:0:::&r
+  - 3:HONEYCOMB:0:::&r
+  
+  - 10:HONEY_BOTTLE:0:::&r
+  - 11:EGG:0:::&r
+  - 12:HONEY_BOTTLE:0:::&r
+  
+  - 19:HONEYCOMB:0:::&r
+  - 20:HONEYCOMB:0:::&r
+  - 21:HONEYCOMB:0:::&r
+  
+  - 15:BEE_SPAWN_EGG:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft turtle egg:
+  command: /craft turtle egg
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cTurtle Egg'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:SCUTE:0:::&r
+  - 2:SCUTE:0:::&r
+  - 3:SCUTE:0:::&r
+  
+  - 10:TURTLE_HELMET:0:::&r
+  - 11:EGG:0:::&r
+  - 12:TURTLE_HELMET:0:::&r
+  
+  - 19:SCUTE:0:::&r
+  - 20:SCUTE:0:::&r
+  - 21:SCUTE:0:::&r
+  
+  - 15:TURTLE_EGG:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft wolf egg:
+  command: /craft wolf egg
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cWolf Egg'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:BONE:0:::&r
+  - 2:SPIDER_EYE:0:::&r
+  - 3:BONE:0:::&r
+  
+  - 10:LEATHER:0:::&r
+  - 11:EGG:0:::&r
+  - 12:LEATHER:0:::&r
+  
+  - 19:BONE:0:::&r
+  - 20:BONE:0:::&r
+  - 21:BONE:0:::&r
+  
+  - 15:WOLF_SPAWN_EGG:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft cow egg:
+  command: /craft cow egg
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cCow Egg'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:LEATHER:0:::&r
+  - 2:BEEF:0:::&r
+  - 3:LEATHER:0:::&r
+  
+  - 10:BEEF:0:::&r
+  - 11:EGG:0:::&r
+  - 12:BEEF:0:::&r
+  
+  - 19:LEATHER:0:::&r
+  - 20:BEEF:0:::&r
+  - 21:LEATHER:0:::&r
+  
+  - 15:COW_SPAWN_EGG:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft sheep egg:
+  command: /craft sheep egg
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cSheep Egg'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:LEATHER:0:::&r
+  - 2:LEATHER:0:::&r
+  - 3:LEATHER:0:::&r
+  
+  - 10:SPIDER_EYE:0:::&r
+  - 11:EGG:0:::&r
+  - 12:WHITE_WOOL:0:::&r
+  
+  - 19:WHITE_WOOL:0:::&r
+  - 20:WHITE_WOOL:0:::&r
+  - 21:WHITE_WOOL:0:::&r
+  
+  - 15:SHEEP_SPAWN_EGG:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft pig egg:
+  command: /craft pig egg
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cPig Egg'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:LEATHER:0:::&r
+  - 2:LEATHER:0:::&r
+  - 3:LEATHER:0:::&r
+  
+  - 10:SPIDER_EYE:0:::&r
+  - 11:EGG:0:::&r
+  - 12:COOKED_PORKCHOP:0:::&r
+  
+  - 19:COOKED_PORKCHOP:0:::&r
+  - 20:COOKED_PORKCHOP:0:::&r
+  - 21:COOKED_PORKCHOP:0:::&r
+  
+  - 15:PIG_SPAWN_EGG:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+  
+craft horse egg:
+  command: /craft horse egg
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cHorse Egg'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:WHEAT:0:::&r
+  - 2:SADDLE:0:::&r
+  - 3:WHEAT:0:::&r
+  
+  - 10:LEATHER:0:::&r
+  - 11:EGG:0:::&r
+  - 12:LEATHER:0:::&r
+  
+  - 19:LEATHER:0:::&r
+  - 20:LEATHER:0:::&r
+  - 21:LEATHER:0:::&r
+  
+  - 15:HORSE_SPAWN_EGG:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft zombie egg:
+  command: /craft zombie egg
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cZombie Egg'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:SPIDER_EYE:0:::&r
+  - 2:ROTTEN_FLESH:0:::&r
+  - 3:SPIDER_EYE:0:::&r
+  
+  - 10:ROTTEN_FLESH:0:::&r
+  - 11:EGG:0:::&r
+  - 12:ROTTEN_FLESH:0:::&r
+  
+  - 19:ROTTEN_FLESH:0:::&r
+  - 20:ROTTEN_FLESH:0:::&r
+  - 21:ROTTEN_FLESH:0:::&r
+  
+  - 15:ZOMBIE_SPAWN_EGG:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft creeper egg:
+  command: /craft creeper egg
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cCreeper Egg'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:CACTUS:0:::&r
+  - 2:SPIDER_EYE:0:::&r
+  - 3:CACTUS:0:::&r
+  
+  - 10:CACTUS:0:::&r
+  - 11:TNT:0:::&r
+  - 12:CACTUS:0:::&r
+  
+  - 19:BLACK_DYE:0:::&r
+  - 20:TNT:0:::&r
+  - 21:BLACK_DYE:0:::&r
+  
+  - 15:CREEPER_SPAWN_EGG:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft skeleton egg:
+  command: /craft skeleton egg
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cSkeleton Egg'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:SPIDER_EYE:0:::&r
+  - 2:ARROW:0:::&r
+  - 3:SPIDER_EYE:0:::&r
+  
+  - 10:ARROW:0:::&r
+  - 11:BONE:0:::&r
+  - 12:BOW:0:::&r
+  
+  - 19:BONE:0:::&r
+  - 20:BONE:0:::&r
+  - 21:BONE:0:::&r
+  
+  - 15:SKELETON_SPAWN_EGG:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
+craft spider egg:
+  command: /craft spider egg
+  type: ICON_MENU
+  text:
+  - 'POSITION:ITEM_NAME:ITEMDATA:COMMAND/MESSAGE:TITLE:DESCRIPTION;MULTILINES'
+  - 'ITEM_NAME can also be ITEM_NAME;ENCHANTMENT_NAME;LEVEL'
+  iconmenu_title: '&cSpider Egg'
+  iconmenu_size: 27
+  iconmenu_commands:
+  - 1:SPIDER_EYE:0:::&r
+  - 2:BLACK_DYE:0:::&r
+  - 3:SPIDER_EYE:0:::&r
+  
+  - 10:STRING:0:::&r
+  - 11:EGG:0:::&r
+  - 12:STRING:0:::&r
+  
+  - 19:STRING:0:::&r
+  - 20:RED_DYE:0:::&r
+  - 21:STRING:0:::&r
+  
+  - 15:SPIDER_SPAWN_EGG:0:::&r
+  
+  - 0:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 9:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 18:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 4:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 5:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 6:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 7:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 8:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 13:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 14:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 16:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 17:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 22:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 23:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 24:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 25:BLACK_STAINED_GLASS_PANE:0:::&r
+  - 26:BARRIER:0:%openiconmenu%/help craftables:Exit:Back to crafting help.
+  permission-required: false
+
