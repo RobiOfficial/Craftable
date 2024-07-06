@@ -1,12 +1,3 @@
-DiamondHorseArmor: !!org.bukkit.inventory.ShapedRecipe
-  category: {}
-  group: ''
-GoldHorseArmor: !!org.bukkit.inventory.ShapedRecipe
-  category: {}
-  group: ''
-IronHorseArmor: !!org.bukkit.inventory.ShapedRecipe
-  category: {}
-  group: ''
 Flint: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
@@ -64,6 +55,12 @@ ELYTRA: !!org.bukkit.inventory.ShapedRecipe
 DISC: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
+CTApple: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+Web: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
 BeeEgg: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
@@ -73,6 +70,51 @@ WolfEgg: !!org.bukkit.inventory.ShapedRecipe
 TurtleEgg: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
+CowEgg: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+PigEgg: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+SheepEgg: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+HorseEgg: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
 ZombieEgg: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+CreeperEgg: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+SkeletonEgg: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+SpiderEgg: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+DHArmor: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+GHArmor: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+IHArmor: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+GoatEgg: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+AxoEgg: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+BRod: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+ExpBottleCompost: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+EOE: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
