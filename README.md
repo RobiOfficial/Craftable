@@ -33,15 +33,14 @@ Craftable recipes:
 - Zombie Egg
 - Wolf Egg
 - Cow Egg
-
-
-Example:  
-
-![DiamondHorseArmor](https://i.imgur.com/zGmcUWE.png)
+- Blaze Rod
+- Goat Spawn Egg
+- Axolotl Spawn Egg
+- Eye Of Ender
 
 GUI  
 
-![CraftableGUI](https://github.com/RobiOfficial/Craftable/blob/main/Img/3.6GUI.png)
+![[CraftableGUI](https://github.com/RobiOfficial/Craftable/blob/main/Img/3.6GUI.png](https://github.com/RobiOfficial/Craftable/blob/main/Recipes/v4.0.0/CraftablePanel%20v4.png)
 
 ## **COMMANDS**  
 | Command | Permission | Info | Alias |
@@ -54,6 +53,7 @@ GUI
 | **/armor** | craftable.armor | Access to horse armor and chainmail armor recipes. | |
 | **/mobs** | craftable.mobs | Access to mobs recipes. | |
 | **/animals** | craftable.animals | Access to animals recipes. | |
+| **/composter** | craftable.composter | Access to composter recipes. | |
 
 # Installation
 - Stop your server.
