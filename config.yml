@@ -1,0 +1,86 @@
+########################
+### CRAFTABLE CONFIG ###
+########################
+
+#######################
+### PANELS MESSAGES ###
+#######################
+
+# PANEL TITLES
+Panel:
+  blocks: '&4&l[Craftable] &9Blocks Panel'
+  armor: '&4&l[Craftable] &9Chainmail Armor Panel'
+  food: '&4&l[Craftable] &9Food Panel'
+  misc: '&4&l[Craftable] &9Misc Panel'
+  horsearmor: '&4&l[Craftable] &9Horse Armor Panel'
+  mobs: '&4&l[Craftable] &9Mobs Panel'
+  animals: '&4&l[Craftable] &9Animals Panel'
+  composter: '&4&l[Craftable] &9Composter Panel'
+
+# CHAINMAIL ARMOR PANEL
+ArmorPanel:
+  helmet: '&4&l[Craftable] &9Chainmail Helmet'
+  chestplate: '&4&l[Craftable] &9Chainmail Chestplate'
+  leggings: '&4&l[Craftable] &9Chainmail Leggings'
+  boots: '&4&l[Craftable] &9Chainmail Boots'
+
+# COMPOSTER PANEL
+Composter:
+  experiencebottle: '&4&l[Craftable] &9Experience Bottle'
+  eyeofender: '&4&l[Craftable] &9Eye Of Ender'
+
+# HORSE ARMOR PANEL
+HorseArmor:
+  diamondarmor: '&4&l[Craftable] &9Diamond Horse Armor'
+  goldenarmor: '&4&l[Craftable] &9Golden Horse Armor'
+  ironarmor: '&4&l[Craftable] &9Iron Horse Armor'
+
+# MOBS PANEL
+Mobs:
+  zombie: '&4&l[Craftable] &f&lZombie &7(Spawn Egg)'
+  creeper: '&4&l[Craftable] &f&lCreeper &7(Spawn Egg)'
+  skeleton: '&4&l[Craftable] &f&lSkeleton &7(Spawn Egg)'
+  spider: '&4&l[Craftable] &f&lSpider &7(Spawn Egg)'
+  enderman: '&4&l[Craftable] &f&lEnderman &7(Spawn Egg)'
+
+# ANIMALS PANEL
+Animals:
+  bee: '&4&l[Craftable] &f&lBee &7(Spawn Egg)'
+  wolf: '&4&l[Craftable] &f&lWolf &7(Spawn Egg)'
+  turtle: '&4&l[Craftable] &f&lTurtle &7(Spawn Egg)'
+  cow: '&4&l[Craftable] &f&lCow &7(Spawn Egg)'
+  pig: '&4&l[Craftable] &f&lPig &7(Spawn Egg)'
+  sheep: '&4&l[Craftable] &f&lSheep &7(Spawn Egg)'
+  horse: '&4&l[Craftable] &f&lHorse &7(Spawn Egg)'
+  goat: '&4&l[Craftable] &f&lGoat &7(Spawn Egg)'
+  axolotl: '&4&l[Craftable] &f&lAxolotl &7(Spawn Egg)'
+  rabbit: '&4&l[Craftable] &f&lRabbit &7(Spawn Egg)'
+  fox: '&4&l[Craftable] &f&lFox &7(Spawn Egg)'
+
+# BLOCKS PANEL
+Blocks:
+  ice: '&4&l[Craftable] &fIce Block'
+  obsidian: '&4&l[Craftable] &fObsidian Block'
+  sponge: '&4&l[Craftable] &fSponge Block'
+  gravel: '&4&l[Craftable] &fGravel Block'
+
+# FOOD PANEL
+Food:
+  enchantedgoldenapple: '&4&l[Craftable] &aEnchanted Golden Apple'
+  potato: '&4&l[Craftable] &aPotato'
+  apple: '&4&l[Craftable] &aApple'
+
+# MISC PANEL
+Misc:
+  experiencebottle: '&4&l[Craftable] &dExperience Bottle'
+  leather: '&4&l[Craftable] &dLeather'
+  totemofundying: '&4&l[Craftable] &dTotem Of Undying'
+  nametag: '&4&l[Craftable] &dName Tag'
+  trident: '&4&l[Craftable] &dTrident'
+  saddle: '&4&l[Craftable] &dSaddle'
+  elytra: '&4&l[Craftable] &dElytra'
+  musicdisc: '&4&l[Craftable] &dMusic Disc'
+  flint: '&4&l[Craftable] &dFlint'
+  cobweb: '&4&l[Craftable] &dCobweb'
+  blazerod: '&4&l[Craftable] &dBlaze Rod'
+
