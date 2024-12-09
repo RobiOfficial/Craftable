@@ -127,3 +127,12 @@ ExpBottleCompost: !!org.bukkit.inventory.ShapedRecipe
 EOE: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
+RedMushroomBlock: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+BrownMushroomBlock: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+Bell: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
