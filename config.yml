@@ -38,7 +38,7 @@ HorseArmor:
 # MOBS PANEL
 Mobs:
   zombie: '&4&l[Craftable] &f&lZombie &7(Spawn Egg)'
-  creeper: '&4&l[Craftable] &f&lCreeper &7(Spawn Egg)'
+  creeper: '&4&l[Craftable] &f&lCreeper &7(Spawn Egg) &e(Updated!)'
   skeleton: '&4&l[Craftable] &f&lSkeleton &7(Spawn Egg)'
   spider: '&4&l[Craftable] &f&lSpider &7(Spawn Egg)'
   enderman: '&4&l[Craftable] &f&lEnderman &7(Spawn Egg)'
@@ -83,4 +83,7 @@ Misc:
   flint: '&4&l[Craftable] &dFlint'
   cobweb: '&4&l[Craftable] &dCobweb'
   blazerod: '&4&l[Craftable] &dBlaze Rod'
+  redmushroomblock: '&4&l[Craftable] &dRed Mushroom Block &a(New!)'
+  brownmushroomblock: '&4&l[Craftable] &dBrown Mushroom Block &a(New!)'
+  bell: '&4&l[Craftable] &dBell &a(New!)'
 
