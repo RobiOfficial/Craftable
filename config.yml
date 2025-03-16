@@ -27,7 +27,7 @@ ArmorPanel:
 # COMPOSTER PANEL
 Composter:
   experiencebottle: '&4&l[Craftable] &9Experience Bottle'
-  eyeofender: '&4&l[Craftable] &9Eye Of Ender'
+  mossblock: '&4&l[Craftable] &9Moss Block &e&o[Updated]'
 
 # HORSE ARMOR PANEL
 HorseArmor:
@@ -38,7 +38,7 @@ HorseArmor:
 # MOBS PANEL
 Mobs:
   zombie: '&4&l[Craftable] &f&lZombie &7(Spawn Egg)'
-  creeper: '&4&l[Craftable] &f&lCreeper &7(Spawn Egg) &e(Updated!)'
+  creeper: '&4&l[Craftable] &f&lCreeper &7(Spawn Egg)'
   skeleton: '&4&l[Craftable] &f&lSkeleton &7(Spawn Egg)'
   spider: '&4&l[Craftable] &f&lSpider &7(Spawn Egg)'
   enderman: '&4&l[Craftable] &f&lEnderman &7(Spawn Egg)'
@@ -60,13 +60,13 @@ Animals:
 # BLOCKS PANEL
 Blocks:
   ice: '&4&l[Craftable] &fIce Block'
-  obsidian: '&4&l[Craftable] &fObsidian Block'
+  obsidian: '&4&l[Craftable] &fObsidian Block &b&o[Updated]'
   sponge: '&4&l[Craftable] &fSponge Block'
   gravel: '&4&l[Craftable] &fGravel Block'
 
 # FOOD PANEL
 Food:
-  enchantedgoldenapple: '&4&l[Craftable] &aEnchanted Golden Apple'
+  enchantedgoldenapple: '&4&l[Craftable] &aEnchanted Golden Apple &b&o[Updated]'
   potato: '&4&l[Craftable] &aPotato'
   apple: '&4&l[Craftable] &aApple'
 
