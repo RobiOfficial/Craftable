@@ -1,6 +1,9 @@
 Flint: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
+Flint2: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
 ChainmailHelmet: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
@@ -124,7 +127,7 @@ BRod: !!org.bukkit.inventory.ShapedRecipe
 ExpBottleCompost: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
-EOE: !!org.bukkit.inventory.ShapedRecipe
+MossBlock: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
 RedMushroomBlock: !!org.bukkit.inventory.ShapedRecipe
@@ -134,5 +137,8 @@ BrownMushroomBlock: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
 Bell: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+HealingPotion: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
