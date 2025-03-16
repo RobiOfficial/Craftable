@@ -36,7 +36,7 @@ Craftable recipes:
 - Blaze Rod
 - Goat Spawn Egg
 - Axolotl Spawn Egg
-- Eye Of Ender
+- Moss Block
 
 GUI  
 
