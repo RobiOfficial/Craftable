@@ -27,7 +27,7 @@ ArmorPanel:
 # COMPOSTER PANEL
 Composter:
   experiencebottle: '&4&l[Craftable] &9Experience Bottle'
-  mossblock: '&4&l[Craftable] &9Moss Block &e&o[Updated]'
+  mossblock: '&4&l[Craftable] &9Moss Block'
 
 # HORSE ARMOR PANEL
 HorseArmor:
@@ -60,13 +60,13 @@ Animals:
 # BLOCKS PANEL
 Blocks:
   ice: '&4&l[Craftable] &fIce Block'
-  obsidian: '&4&l[Craftable] &fObsidian Block &b&o[Updated]'
+  obsidian: '&4&l[Craftable] &fObsidian Block'
   sponge: '&4&l[Craftable] &fSponge Block'
   gravel: '&4&l[Craftable] &fGravel Block'
 
 # FOOD PANEL
 Food:
-  enchantedgoldenapple: '&4&l[Craftable] &aEnchanted Golden Apple &b&o[Updated]'
+  enchantedgoldenapple: '&4&l[Craftable] &aEnchanted Golden Apple'
   potato: '&4&l[Craftable] &aPotato'
   apple: '&4&l[Craftable] &aApple'
 
@@ -74,16 +74,18 @@ Food:
 Misc:
   experiencebottle: '&4&l[Craftable] &dExperience Bottle'
   leather: '&4&l[Craftable] &dLeather'
-  totemofundying: '&4&l[Craftable] &dTotem Of Undying'
+  totemofundying: '&4&l[Craftable] &dTotem Of Undying &b&l(Updated!)'
   nametag: '&4&l[Craftable] &dName Tag'
   trident: '&4&l[Craftable] &dTrident'
   saddle: '&4&l[Craftable] &dSaddle'
-  elytra: '&4&l[Craftable] &dElytra'
+  elytra: '&4&l[Craftable] &dElytra &b&l(Updated!)'
   musicdisc: '&4&l[Craftable] &dMusic Disc'
   flint: '&4&l[Craftable] &dFlint'
   cobweb: '&4&l[Craftable] &dCobweb'
   blazerod: '&4&l[Craftable] &dBlaze Rod'
-  redmushroomblock: '&4&l[Craftable] &dRed Mushroom Block &a(New!)'
-  brownmushroomblock: '&4&l[Craftable] &dBrown Mushroom Block &a(New!)'
-  bell: '&4&l[Craftable] &dBell &a(New!)'
+  redmushroomblock: '&4&l[Craftable] &dRed Mushroom Block'
+  brownmushroomblock: '&4&l[Craftable] &dBrown Mushroom Block'
+  bell: '&4&l[Craftable] &dBell'
+  netherstar: '&4&l[Craftable] &dNether Star &a(New!)'
+  heartofthesea: '&4&l[Craftable] &dHeart Of The Sea &a(New!)'
 
