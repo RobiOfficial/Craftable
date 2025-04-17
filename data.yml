@@ -4,6 +4,15 @@ Flint: !!org.bukkit.inventory.ShapedRecipe
 Flint2: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
+NetherStar: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+SeaHeart: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+BRod: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
 ChainmailHelmet: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
@@ -119,9 +128,6 @@ GoatEgg: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
 AxoEgg: !!org.bukkit.inventory.ShapedRecipe
-  category: {}
-  group: ''
-BRod: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
 ExpBottleCompost: !!org.bukkit.inventory.ShapedRecipe
