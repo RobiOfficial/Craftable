@@ -1,0 +1,97 @@
+########################
+### CRAFTABLE CONFIG ###
+########################
+
+#######################
+### PANELS MESSAGES ###
+#######################
+
+# PANEL TITLES
+Panel:
+  blocks: '&8[&7Craftable&8] &7Blocks Panel'
+  armor: '&8[&7Craftable&8] &7Chainmail Armor Panel'
+  food: '&8[&7Craftable&8] &7Food Panel'
+  misc: '&8[&7Craftable&8] &7Misc Panel'
+  horsearmor: '&8[&7Craftable&8] &7Horse Armor Panel'
+  mobs: '&8[&7Craftable&8] &7Mobs Panel'
+  animals: '&8[&7Craftable&8] &7Animals Panel'
+  composter: '&8[&7Craftable&8] &7Composter Panel'
+  close: '&4&l[X] &cClose'
+
+# CHAINMAIL ARMOR PANEL
+ArmorPanel:
+  helmet: '&8[&7Craftable&8] &7Chainmail Helmet'
+  chestplate: '&8[&7Craftable&8] &7Chainmail Chestplate'
+  leggings: '&8[&7Craftable&8] &7Chainmail Leggings'
+  boots: '&8[&7Craftable&8] &7Chainmail Boots'
+
+# COMPOSTER PANEL
+Composter:
+  experiencebottle: '&8[&7Craftable&8] &7Experience Bottle &2&l♻️'
+  mossblock: '&8[&7Craftable&8] &7Moss Block &2&l♻️'
+
+# HORSE ARMOR PANEL
+HorseArmor:
+  diamondarmor: '&8[&7Craftable&8] &7Diamond Horse Armor'
+  goldenarmor: '&8[&7Craftable&8] &7Golden Horse Armor'
+  ironarmor: '&8[&7Craftable&8] &7Iron Horse Armor'
+
+# MOBS PANEL
+Mobs:
+  zombie: '&8[&7Craftable&8] &7Zombie &1(Spawn Egg)'
+  creeper: '&8[&7Craftable&8] &7Creeper &1(Spawn Egg)'
+  skeleton: '&8[&7Craftable&8] &7Skeleton &1(Spawn Egg)'
+  spider: '&8[&7Craftable&8] &7Spider &1(Spawn Egg)'
+  enderman: '&8[&7Craftable&8] &7Enderman &1(Spawn Egg)'
+  slime: '&8[&7Craftable&8] &7Slime &1(Spawn Egg) &b(New!)'
+  silverfish: '&8[&7Craftable&8] &7Silverfish &1(Spawn Egg) &b(New!)'
+
+# ANIMALS PANEL
+Animals:
+  bee: '&8[&7Craftable&8] &7Bee &1(Spawn Egg)'
+  wolf: '&8[&7Craftable&8] &7Wolf &1(Spawn Egg)'
+  turtle: '&8[&7Craftable&8] &7Turtle &1(Spawn Egg)'
+  cow: '&8[&7Craftable&8] &7Cow &1(Spawn Egg)'
+  pig: '&8[&7Craftable&8] &7Pig &1(Spawn Egg)'
+  sheep: '&8[&7Craftable&8] &7Sheep &1(Spawn Egg)'
+  horse: '&8[&7Craftable&8] &7Horse &1(Spawn Egg)'
+  goat: '&8[&7Craftable&8] &7Goat &1(Spawn Egg)'
+  axolotl: '&8[&7Craftable&8] &7Axolotl &1(Spawn Egg)'
+  rabbit: '&8[&7Craftable&8] &7Rabbit &1(Spawn Egg)'
+  fox: '&8[&7Craftable&8] &7Fox &1(Spawn Egg)'
+  parrot: '&8[&7Craftable&8] &7Parrot &1(Spawn Egg) &b(New!)'
+
+# BLOCKS PANEL
+Blocks:
+  ice: '&8[&7Craftable&8] &7Ice Block'
+  obsidian: '&8[&7Craftable&8] &7Obsidian Block'
+  sponge: '&8[&7Craftable&8] &7Sponge Block'
+  gravel: '&8[&7Craftable&8] &7Gravel Block'
+
+# FOOD PANEL
+Food:
+  enchantedgoldenapple: '&8[&7Craftable&8] &7Enchanted Golden Apple'
+  potato: '&8[&7Craftable&8] &7Potato &2&l♻️'
+  apple: '&8[&7Craftable&8] &7Apple &2&l♻️'
+
+# MISC PANEL
+Misc:
+  experiencebottle: '&8[&7Craftable&8] &7Experience Bottle'
+  leather: '&8[&7Craftable&8] &7Leather &2&l♻️'
+  totemofundying: '&8[&7Craftable&8] &7Totem Of Undying'
+  nametag: '&8[&7Craftable&8] &7Name Tag'
+  trident: '&8[&7Craftable&8] &7Trident'
+  saddle: '&8[&7Craftable&8] &7Saddle'
+  elytra: '&8[&7Craftable&8] &7Elytra'
+  musicdisc: '&8[&7Craftable&8] &7Music Disc'
+  flint: '&8[&7Craftable&8] &7Flint'
+  cobweb: '&8[&7Craftable&8] &7Cobweb'
+  blazerod: '&8[&7Craftable&8] &7Blaze Rod'
+  redmushroomblock: '&8[&7Craftable&8] &7Red Mushroom Block &2&l♻️'
+  brownmushroomblock: '&8[&7Craftable&8] &7Brown Mushroom Block &2&l♻️'
+  bell: '&8[&7Craftable&8] &7Bell'
+  netherstar: '&8[&7Craftable&8] &7Nether Star'
+  heartofthesea: '&8[&7Craftable&8] &7Heart Of The Sea'
+  gunpowder: '&8[&7Craftable&8] &7Gunpowder'
+  slimeball: '&8[&7Craftable&8] &7Slimeball &a(New!)'
+
