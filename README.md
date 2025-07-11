@@ -1,62 +1,75 @@
-![Craftable-Icon](https://i.imgur.com/T7gUDEl.png)
+![Craftable-Icon](https://i.imgur.com/2H8u68k.png)
 
-Craftable is a plugin that adds recipes to the server for blocks and items that do not officially have a recipe or are only available in different locations and challenges of the game. It is an easy way to obtain rare items. Since v3.0.0 we have also aimed to bring recycling recipes into the game.
+Craftable is a powerful plugin that adds crafting recipes for blocks and items that don't have official recipes or are otherwise locked behind rare structures, loot tables, or challenges.
 
-**Note:** The plugin is developed as a hobby and all players and users of the plugin can participate in the development work by giving feedback or offering new solutions for further development work. We welcome all ideas and feedback- **[Craftable Issues & Requests](https://github.com/RobiOfficial/Craftable/issues)**.
+Everyone is welcome to participate in improving Craftable. You can suggest ideas, report bugs, or contribute on GitHub/Discord.
 
 ![GitHub issues](https://img.shields.io/github/issues/RobiOfficial/Craftable) / ![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/RobiOfficial/Craftable) / ![GitHub repo size](https://img.shields.io/github/repo-size/RobiOfficial/Craftable) / ![Spiget Downloads](https://img.shields.io/spiget/downloads/107173)
 
-# How does it work?
-After adding the plugin to the server, all players have immediate access to recipes, but players can't see recipe creation information without permission. If you want players or groups to see categories and recipe information, you must also add permissions. Category permissions are in use from **the v3.0.0 version**.
+---
 
-# Features
-Craftable recipes:  
-- Ice block
-- Leather
-- Totem Of Undying
-- Name Tag
-- Enchanted Golden Apple
-- Experience Bottle
-- Chainmail armor
-- Horse armor (iron, gold, diamond)  
-- Trident
-- Saddle
-- Obsidian
-- Potato
-- Sponge
-- Music Disc
-- Elytra
-- Bee Egg
-- Turtle Egg
-- Gravel
-- Flint
-- Zombie Egg
-- Wolf Egg
-- Cow Egg
-- Blaze Rod
-- Goat Spawn Egg
-- Axolotl Spawn Egg
-- Moss Block
+## ✨ Features
 
-GUI  
+- **Craftable GUIs** – View every block or item category in an easy-to-navigate GUI. Each category has its own interface displaying detailed recipe information.  
+- **Craftable Recipes** – Everyone can see available recipes, but only those with permissions can view workbench details.  
+- ♻ **Recycling Recipes** – Some items now have extra value! Example: 9 Rotten Flesh → 1 Leather ➡️  
+- **Config.yml** available for messages (HEX colors supported).
 
-![[CraftableGUI](https://github.com/RobiOfficial/Craftable/blob/main/Img/3.6GUI.png](https://github.com/RobiOfficial/Craftable/blob/main/Recipes/v4.0.0/CraftablePanel%20v4.png)
+---
 
-## **COMMANDS**  
-| Command | Permission | Info | Alias |
-|---------|------------|------|-------|
-| **/craftable** | - | Craftable help menu. | /help craftable |
-| **/craft** | craftable.craft | List of GUI's. | /c |
-| **/food** | craftable.food | Access to food recipes. | |
-| **/blocks** | craftable.blocks | Access to blocks recipes. | |
-| **/misc** | craftable.misc | Access to misc items recipes. | |
-| **/armor** | craftable.armor | Access to horse armor and chainmail armor recipes. | |
-| **/mobs** | craftable.mobs | Access to mobs recipes. | |
-| **/animals** | craftable.animals | Access to animals recipes. | |
-| **/composter** | craftable.composter | Access to composter recipes. | |
+## 📋 Available Recipes
 
-# Installation
-- Stop your server.
-- Download the latest version of the plugin.
-- Move the CompassHunt.jar to your plugins folder.
-- Restart your server.
+- **Blocks:** Ice, Obsidian, Sponge, Gravel  
+- **Armor:** Chainmail, Horse Armor (Iron, Gold, Diamond)  
+- **Food:** Enchanted Golden Apple, Apple (♻), Potato (♻)  
+- **Misc:** Totem of Undying, Experience Bottle, Saddle, Name Tag, Blaze Rod, Music Discs, Elytra, Cobweb, Nether Star, Flint, Heart of the Sea, Bell  
+- **Animals:** Bee, Turtle, Cow, Sheep, Pig, Horse, Goat, Axolotl, Parrot  
+- **Mobs:** Zombie, Skeleton, Creeper, Spider, Silverfish, Slime  
+- **Composter Recipes:** Eye of Ender, Experience Bottle, Leather, Potato, Apple, Rotten Flesh, Mushroom Blocks  
+
+---
+
+## 🛠 Commands & Permissions
+
+| Command     | Permission           | Description             |
+| ----------- | -------------------- | ----------------------- |
+| `/craftable`  | -                    | Help menu               |
+| `/craft`      | craftable.craft      | Open main GUI           |
+| `/blocks`     | craftable.blocks     | Block recipes           |
+| `/armor`      | craftable.armor      | Chainmail & Horse armor |
+| `/food`       | craftable.food       | Food recipes            |
+| `/misc`       | craftable.misc       | Misc item recipes       |
+| `/animals`    | craftable.animals    | Animal egg recipes      |
+| `/mobs`       | craftable.mobs       | Mob egg recipes         |
+| `/composter`  | craftable.composter  | Composter recipes       |
+| `/horsearmor` | craftable.horsearmor | Horse armor recipes     |
+
+---
+
+## 🔌 Extensions
+
+Craftable supports community-created extensions that add new features and recipes. Extensions are maintained independently and may not always be up-to-date.
+
+- [**MyCommand Extension** by @Village-Loon]([https://www.youtube.com/shorts/06Hfeyb92dE](https://robigames.gitbook.io/docs/plugins/craftable/extensions))
+
+You are invited to submit your own extensions or ideas via GitHub Discussions or our Discord server. Once verified, your extension will be featured on the official Craftable resource pages!
+
+---
+
+## ⚙️ Installation
+
+1️⃣ Stop your server ⏹️  
+2️⃣ Download the latest Craftable version  
+3️⃣ Move `Craftable.jar` to your plugins folder  
+4️⃣ Restart your server  
+
+---
+
+## ▶️ Videos & Mentions
+
+- [YouTube Video by @KasaiSora](https://www.youtube.com/shorts/06Hfeyb92dE)
+
+---
+
+![Craftable Stats](https://bstats.org/signatures/bukkit/Craftable.svg)
+
