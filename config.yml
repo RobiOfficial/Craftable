@@ -27,8 +27,8 @@ ArmorPanel:
 
 # COMPOSTER PANEL
 Composter:
-  experiencebottle: '&8[&7Craftable&8] &7Experience Bottle &2&l♻️'
-  mossblock: '&8[&7Craftable&8] &7Moss Block &2&l♻️'
+  experiencebottle: '&8[&7Craftable&8] &7Experience Bottle'
+  mossblock: '&8[&7Craftable&8] &7Moss Block'
 
 # HORSE ARMOR PANEL
 HorseArmor:
@@ -71,13 +71,13 @@ Blocks:
 # FOOD PANEL
 Food:
   enchantedgoldenapple: '&8[&7Craftable&8] &7Enchanted Golden Apple'
-  potato: '&8[&7Craftable&8] &7Potato &2&l♻️'
-  apple: '&8[&7Craftable&8] &7Apple &2&l♻️'
+  potato: '&8[&7Craftable&8] &7Potato'
+  apple: '&8[&7Craftable&8] &7Apple'
 
 # MISC PANEL
 Misc:
   experiencebottle: '&8[&7Craftable&8] &7Experience Bottle'
-  leather: '&8[&7Craftable&8] &7Leather &2&l♻️'
+  leather: '&8[&7Craftable&8] &7Leather'
   totemofundying: '&8[&7Craftable&8] &7Totem Of Undying'
   nametag: '&8[&7Craftable&8] &7Name Tag'
   trident: '&8[&7Craftable&8] &7Trident'
@@ -87,11 +87,10 @@ Misc:
   flint: '&8[&7Craftable&8] &7Flint'
   cobweb: '&8[&7Craftable&8] &7Cobweb'
   blazerod: '&8[&7Craftable&8] &7Blaze Rod'
-  redmushroomblock: '&8[&7Craftable&8] &7Red Mushroom Block &2&l♻️'
-  brownmushroomblock: '&8[&7Craftable&8] &7Brown Mushroom Block &2&l♻️'
+  redmushroomblock: '&8[&7Craftable&8] &7Red Mushroom Block'
+  brownmushroomblock: '&8[&7Craftable&8] &7Brown Mushroom Block'
   bell: '&8[&7Craftable&8] &7Bell'
   netherstar: '&8[&7Craftable&8] &7Nether Star'
   heartofthesea: '&8[&7Craftable&8] &7Heart Of The Sea'
   gunpowder: '&8[&7Craftable&8] &7Gunpowder'
   slimeball: '&8[&7Craftable&8] &7Slimeball &a(New!)'
-
