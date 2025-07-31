@@ -8,7 +8,7 @@
 
 # PANEL TITLES
 Panel:
-  blocks: '&8[&7Craftable&8] &7Blocks Panel'
+  blocks: '&8[&7Craftable&8] &7Blocks Panel &a[Updated]'
   armor: '&8[&7Craftable&8] &7Chainmail Armor Panel'
   food: '&8[&7Craftable&8] &7Food Panel'
   misc: '&8[&7Craftable&8] &7Misc Panel'
@@ -44,7 +44,7 @@ Mobs:
   spider: '&8[&7Craftable&8] &7Spider &1(Spawn Egg)'
   enderman: '&8[&7Craftable&8] &7Enderman &1(Spawn Egg)'
   slime: '&8[&7Craftable&8] &7Slime &1(Spawn Egg) &b(New!)'
-  silverfish: '&8[&7Craftable&8] &7Silverfish &1(Spawn Egg) &b(New!)'
+  silverfish: '&8[&7Craftable&8] &7Silverfish &1(Spawn Egg)'
 
 # ANIMALS PANEL
 Animals:
@@ -59,7 +59,7 @@ Animals:
   axolotl: '&8[&7Craftable&8] &7Axolotl &1(Spawn Egg)'
   rabbit: '&8[&7Craftable&8] &7Rabbit &1(Spawn Egg)'
   fox: '&8[&7Craftable&8] &7Fox &1(Spawn Egg)'
-  parrot: '&8[&7Craftable&8] &7Parrot &1(Spawn Egg) &b(New!)'
+  parrot: '&8[&7Craftable&8] &7Parrot &1(Spawn Egg)'
 
 # BLOCKS PANEL
 Blocks:
@@ -67,6 +67,8 @@ Blocks:
   obsidian: '&8[&7Craftable&8] &7Obsidian Block'
   sponge: '&8[&7Craftable&8] &7Sponge Block'
   gravel: '&8[&7Craftable&8] &7Gravel Block'
+  calcite: '&8[&7Craftable&8] &7Calcite Block &b(New!)'
+  tuff: '&8[&7Craftable&8] &7Tuff Block &b(New!)'
 
 # FOOD PANEL
 Food:
@@ -93,4 +95,5 @@ Misc:
   netherstar: '&8[&7Craftable&8] &7Nether Star'
   heartofthesea: '&8[&7Craftable&8] &7Heart Of The Sea'
   gunpowder: '&8[&7Craftable&8] &7Gunpowder'
-  slimeball: '&8[&7Craftable&8] &7Slimeball &a(New!)'
+  slimeball: '&8[&7Craftable&8] &7Slimeball'
+
