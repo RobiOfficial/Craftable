@@ -1,7 +1,7 @@
-Flint: !!org.bukkit.inventory.ShapedRecipe
+FlintMisc: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
-Flint2: !!org.bukkit.inventory.ShapedRecipe
+FlintMiscAlternative: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
 NetherStar: !!org.bukkit.inventory.ShapedRecipe
@@ -25,7 +25,7 @@ ChainmailLeggings: !!org.bukkit.inventory.ShapedRecipe
 ChainmailBoots: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
-Leather: !!org.bukkit.inventory.ShapedRecipe
+LeatherMisc: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
 Totem: !!org.bukkit.inventory.ShapedRecipe
@@ -34,10 +34,10 @@ Totem: !!org.bukkit.inventory.ShapedRecipe
 NameTag: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
-Trident: !!org.bukkit.inventory.ShapedRecipe
+TridentMisc: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
-Saddle: !!org.bukkit.inventory.ShapedRecipe
+SaddleMisc: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
 expBottle: !!org.bukkit.inventory.ShapedRecipe
@@ -49,19 +49,25 @@ EnchantedGoldenApple: !!org.bukkit.inventory.ShapedRecipe
 IceBlock: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
-Obsidian: !!org.bukkit.inventory.ShapedRecipe
+ObsidianBlock: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
-Gravel: !!org.bukkit.inventory.ShapedRecipe
+GravelBlock: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+CalciteBlock: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+TuffBlock: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
 PoisonPotato: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
-Sponge: !!org.bukkit.inventory.ShapedRecipe
+SpongeBlock: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
-ELYTRA: !!org.bukkit.inventory.ShapedRecipe
+ElytraMisc: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
 DISC: !!org.bukkit.inventory.ShapedRecipe
@@ -142,7 +148,7 @@ AxoEgg: !!org.bukkit.inventory.ShapedRecipe
 ExpBottleCompost: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
-MossBlock: !!org.bukkit.inventory.ShapedRecipe
+MossBlockComposter: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
 RedMushroomBlock: !!org.bukkit.inventory.ShapedRecipe
@@ -151,7 +157,7 @@ RedMushroomBlock: !!org.bukkit.inventory.ShapedRecipe
 BrownMushroomBlock: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
-Bell: !!org.bukkit.inventory.ShapedRecipe
+BellMisc: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
 GunpowderMisc: !!org.bukkit.inventory.ShapedRecipe
