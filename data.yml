@@ -37,9 +37,6 @@ NameTag: !!org.bukkit.inventory.ShapedRecipe
 TridentMisc: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
-SaddleMisc: !!org.bukkit.inventory.ShapedRecipe
-  category: {}
-  group: ''
 expBottle: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
