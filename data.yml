@@ -172,3 +172,4 @@ SlimeballMisc: !!org.bukkit.inventory.ShapedRecipe
 HealingPotion: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
+
