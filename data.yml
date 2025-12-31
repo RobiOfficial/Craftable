@@ -25,9 +25,6 @@ ChainmailLeggings: !!org.bukkit.inventory.ShapedRecipe
 ChainmailBoots: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
-LeatherMisc: !!org.bukkit.inventory.ShapedRecipe
-  category: {}
-  group: ''
 Totem: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
@@ -106,6 +103,12 @@ FoxEgg: !!org.bukkit.inventory.ShapedRecipe
 ParrotEgg: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
+PandaEgg: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+FrogEgg: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
 ZombieEgg: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
@@ -146,6 +149,9 @@ ExpBottleCompost: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
 MossBlockComposter: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
+LeatherCompost: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
 RedMushroomBlock: !!org.bukkit.inventory.ShapedRecipe
