@@ -23,7 +23,7 @@ Everyone is welcome to participate in improving Craftable. You can suggest ideas
 - **Armor:** Chainmail, Horse Armor (Iron, Gold, Diamond).  
 - **Food:** Enchanted Golden Apple, Apple (♻), Potato (♻).  
 - **Misc:** Totem of Undying, Experience Bottle, Name Tag, Blaze Rod, Music Discs, Elytra, Cobweb, Nether Star, Flint, Heart of the Sea, Bell.  
-- **Animals:** Bee, Turtle, Cow, Sheep, Pig, Horse, Goat, Axolotl, Parrot.  
+- **Animals:** Bee, Turtle, Cow, Sheep, Pig, Horse, Goat, Axolotl, Parrot, Panda, Frog.  
 - **Mobs:** Zombie, Skeleton, Creeper, Spider, Silverfish, Slime.  
 - **Composter Recipes:** Eye of Ender, Experience Bottle, Leather, Potato, Apple, Rotten Flesh, Mushroom Blocks.  
 
