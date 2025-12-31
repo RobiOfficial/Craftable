@@ -106,6 +106,9 @@ ParrotEgg: !!org.bukkit.inventory.ShapedRecipe
 PandaEgg: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
+FrogEgg: !!org.bukkit.inventory.ShapedRecipe
+  category: {}
+  group: ''
 ZombieEgg: !!org.bukkit.inventory.ShapedRecipe
   category: {}
   group: ''
